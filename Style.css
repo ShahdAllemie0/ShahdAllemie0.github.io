@@ -1,5 +1,7 @@
 body {
   background-color: #f4f6ff;
+
+
 }
 
 hr {
@@ -17,4 +19,31 @@ color: #84a9ac;
 }
 h3{
   color:#3b6978;
+}
+.pad{
+  padding-left:30px;
+}
+
+.cor{
+  width: 900px;
+  height:500px;
+  align-content: center;
+  margin: auto;
+
+}
+.f-color{
+   color: #84a9ac;
+}
+.cen{
+  text-align: center;
+}
+.cent{
+  /* align-content: center; */
+  margin: auto;
+}
+.fon{
+  font-size: 100px;
+}
+.co{
+  color: #84a9ac;
 }
